@@ -1422,7 +1422,7 @@ section,
   opacity: 0;
   transform: rotate(0deg);
   transition: opacity 0.3s ease;
-  padding: 3px; /* border thickness */
+  padding: 8px; /* border thickness */
   
   /* thin border effect using mask */
   -webkit-mask: 
